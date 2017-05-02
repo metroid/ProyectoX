@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 2f8491dd6c1f4ba42a432ec8eea2ae24
+timeCreated: 1490151837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cuadrado2_0
+    21300002: cuadrado2_1
+    21300004: cuadrado2_2
+    21300006: cuadrado2_3
+    21300008: cuadrado2_4
+    21300010: cuadrado2_5
+    21300012: cuadrado2_6
+    21300014: cuadrado2_7
+    21300016: cuadrado2_8
+    21300018: cuadrado2_9
+    21300020: cuadrado2_10
+    21300022: cuadrado2_11
+    21300024: cuadrado2_12
+    21300026: cuadrado2_13
+    21300028: cuadrado2_14
+    21300030: cuadrado2_15
+    21300032: cuadrado2_16
+    21300034: cuadrado2_17
+    21300036: cuadrado2_18
+    21300038: cuadrado2_19
+    21300040: cuadrado2_20
+    21300042: cuadrado2_21
+    21300044: cuadrado2_22
+    21300046: cuadrado2_23
+    21300048: cuadrado2_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuadrado2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 452
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 452
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 452
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 452
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 342
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 342
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 342
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 342
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 232
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 232
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 232
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 232
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 232
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 122
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 122
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 122
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuadrado2_24
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 12
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
